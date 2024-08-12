@@ -1,1164 +1,965 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.18): 1723427766716 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.18): 1723493751578 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427769788 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493754667 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427772908 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493757758 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427776001 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493760843 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427779082 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493763940 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427782173 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493767029 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427785247 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493770136 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427788319 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493773225 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427791396 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493776327 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427794485 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493779413 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427797577 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493782502 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427800650 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493785592 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427803738 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493788680 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427806808 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493791775 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427809896 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493794883 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427812987 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493797993 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427816056 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493801108 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427819127 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493804197 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427822252 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493807308 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427825363 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493810402 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427828452 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493813509 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427831525 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493816600 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427834633 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493819697 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427837735 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493822806 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427840810 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493825899 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427843904 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493829013 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427846997 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493832124 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427850067 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493835215 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427853148 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493838306 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427856235 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493841415 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427859305 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493844510 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427862395 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493847617 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427865485 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493850709 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427868552 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493853817 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427871666 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493856927 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427874753 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493860035 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427877828 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493863140 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427880897 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493866230 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427883998 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493869342 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427887067 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493872450 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427890135 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493875554 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427893209 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493878664 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427896276 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493881752 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427899344 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493884854 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427902416 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493887963 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427905487 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493891054 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427908556 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493894162 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427911634 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493897257 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427914716 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493900345 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427917786 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493903455 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427920856 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493906541 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427923932 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493909637 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427927007 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493912726 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427930082 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493915813 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427933159 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493918900 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427936229 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493922011 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427939304 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493925110 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427942376 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493928226 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427945452 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493931334 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427948522 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493934446 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427951595 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493937556 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427954675 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493940656 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427957779 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493943762 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427960849 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493946850 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427963952 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493949941 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427967066 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493953029 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427970138 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493956120 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427973210 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493959208 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427976290 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493962295 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427979360 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493965404 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427982439 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493968494 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427985510 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493971600 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427988580 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493974685 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427991650 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493977772 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427994728 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493980862 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723427997798 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493983957 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428000868 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493987056 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428003941 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493990166 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428007021 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493993278 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428010090 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493996385 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428013160 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723493999474 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428016234 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494002567 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428019338 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494005659 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428022413 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494008767 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428025489 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494011869 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428028573 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494014970 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428031680 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494018082 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428034789 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494021174 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428037868 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494024268 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428040944 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494027357 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428044024 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494030445 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428047134 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494033553 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428050207 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494036662 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428053275 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494039750 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428056348 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494042839 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428059420 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494045934 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428062495 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494049050 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428065566 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494052146 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428068644 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494055236 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428071719 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494058323 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428074799 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494061413 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428077867 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494064535 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428080939 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494067628 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428084008 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494070717 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428087078 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494073826 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428090146 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494076943 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428093216 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494080053 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428096293 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494083140 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428099370 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494086270 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428102453 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494089380 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428105530 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494092486 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428108602 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494095575 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428111675 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494098664 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428114767 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494101773 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428117836 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494104867 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428120910 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494108009 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428123983 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494111102 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428127058 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494114193 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428130151 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494117296 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428133253 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494120383 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428136353 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494123476 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428139423 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494126563 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428142519 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494129672 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428145613 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494132781 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428148683 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494135886 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428151755 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494138977 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428154845 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494142094 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428157933 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494145188 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428161028 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494148273 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428164120 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494151371 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428167207 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494154458 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428170293 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494157545 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428173382 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494160635 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428176456 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494163723 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428179529 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494166831 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428182605 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494169920 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428185700 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494173019 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428188774 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494176129 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428191848 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494179237 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428194917 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494182330 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428197992 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494185437 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428201065 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494188533 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428204134 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494191644 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428207237 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494194734 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428210311 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494197843 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428213383 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494200952 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428216451 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494204045 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428219522 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494207146 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428222603 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494210254 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428225673 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494213350 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428228747 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494216458 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428231822 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494219546 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428234896 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494222642 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428237974 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494225750 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428241055 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494228901 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428244140 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494232026 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428247209 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494235126 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428250302 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494238220 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428253398 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494241326 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428256490 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494244433 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428259565 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494247527 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428262642 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494250615 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428265720 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494253723 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428268828 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494256811 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428271929 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494259928 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428275022 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494263018 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428278129 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494266111 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428281241 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494269201 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428284334 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494272290 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428287422 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494275563 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428290490 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494278652 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428293558 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494281760 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428296627 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494284869 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428299702 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494287990 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428302792 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494291127 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428305879 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494294215 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428308970 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494297329 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428312060 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494300435 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428315152 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494303528 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428318222 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494306635 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428321294 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494309727 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428324395 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494312818 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428327485 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494315925 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428330571 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494319017 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428333676 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494322129 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428336780 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494325235 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428339859 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494328334 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428342940 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494331442 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428346050 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494334564 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428349118 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494337669 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428352207 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494340766 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428355277 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494343857 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428358346 tunnel running, 2 tunnels registered
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723494346948 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723428361438 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-status-curves.gl.at.ply.gg:63514 => 127.0.0.1:42000 (proto: Both, port count: 1)
-country-in.gl.joinmc.link => 127.0.0.1:42000 (minecraft-java)
+security-ensuring.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
